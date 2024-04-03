@@ -1,0 +1,16 @@
+*/bin/
+*.class
+*/.idea/
+*/example-java.iml
+*/example-web.iml
+*/example-web-api.iml
+*/target/
+*/.classpath
+*/.settings/
+*/src/main/webapp/WEB-INF/lib/
+/.idea/
+/.project
+/.idea/compiler.xml
+### 排除掉JRebel生成的文件，所有项目下的/src/main/resources/rebel.xml排除掉 ###
+/*/src/main/resources/rebel.xml
+rebel.xml
