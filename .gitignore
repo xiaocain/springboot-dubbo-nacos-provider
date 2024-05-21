@@ -1,7 +1,8 @@
 */bin/
 *.class
 */.idea/
-*/example-java.iml
+*.iml
+*/*.iml
 */example-web.iml
 */example-web-api.iml
 */target/
